@@ -1,0 +1,122 @@
+{
+  "Tomato___Late_blight": {
+    "description": "A serious disease caused by the fungus Phytophthora infestans that affects tomatoes and potatoes.",
+    "treatment": [
+      "Remove and destroy infected plant material",
+      "Apply fungicides containing chlorothalonil, mancozeb, or copper-based compounds",
+      "Improve air circulation by proper spacing and pruning",
+      "Avoid overhead irrigation; water at the base of plants"
+    ],
+    "prevention": [
+      "Plant resistant varieties",
+      "Practice crop rotation",
+      "Use drip irrigation instead of overhead watering",
+      "Apply preventative fungicide treatments during humid weather"
+    ]
+  },
+  "Tomato___Early_blight": {
+    "description": "A fungal disease caused by Alternaria solani that affects tomato leaves, stems, and fruits.",
+    "treatment": [
+      "Remove infected leaves immediately",
+      "Apply fungicides containing chlorothalonil or copper-based compounds",
+      "Ensure proper plant spacing for air circulation",
+      "Mulch around plants to prevent soil splashing onto leaves"
+    ],
+    "prevention": [
+      "Practice crop rotation (3-4 years)",
+      "Use disease-free seeds and transplants",
+      "Apply mulch to prevent soil splashing",
+      "Stake plants to improve air circulation"
+    ]
+  },
+  "Tomato___Bacterial_spot": {
+    "description": "A bacterial disease that causes spots on leaves, stems, and fruits of tomatoes.",
+    "treatment": [
+      "Remove infected plants and plant debris",
+      "Apply copper-based bactericides early in the season",
+      "Avoid working with plants when they're wet",
+      "Prune infected parts and disinfect tools between cuts"
+    ],
+    "prevention": [
+      "Use disease-free seeds and transplants",
+      "Practice crop rotation",
+      "Avoid overhead irrigation",
+      "Space plants properly for good air circulation"
+    ]
+  },
+  "Tomato___Leaf_Mold": {
+    "description": "A fungal disease that primarily affects tomato leaves in humid environments.",
+    "treatment": [
+      "Improve air circulation by pruning and proper spacing",
+      "Remove and destroy infected leaves",
+      "Apply fungicides labeled for leaf mold control",
+      "Reduce humidity in greenhouses if applicable"
+    ],
+    "prevention": [
+      "Plant resistant varieties",
+      "Avoid overhead watering",
+      "Space plants properly",
+      "Practice good greenhouse ventilation if applicable"
+    ]
+  },
+  "Tomato___healthy": {
+    "description": "Your tomato plant appears healthy with no signs of disease.",
+    "treatment": [],
+    "prevention": [
+      "Continue current care practices",
+      "Water consistently at the base of plants",
+      "Apply balanced fertilizer as needed",
+      "Monitor for early signs of pests or disease"
+    ]
+  },
+  "Apple___Apple_scab": {
+    "description": "A fungal disease that causes dark scab-like lesions on leaves and fruit.",
+    "treatment": [
+      "Apply fungicides containing myclobutanil or captan",
+      "Remove and destroy fallen leaves and fruit",
+      "Prune to improve air circulation",
+      "Apply lime sulfur during dormant season"
+    ],
+    "prevention": [
+      "Plant resistant varieties",
+      "Clean up fallen leaves and fruit in fall",
+      "Apply preventative fungicide sprays in spring",
+      "Ensure proper tree spacing"
+    ]
+  },
+  "Apple___Black_rot": {
+    "description": "A fungal disease causing leaf spots and fruit rot with concentric rings.",
+    "treatment": [
+      "Prune out diseased branches and cankers",
+      "Apply fungicides containing captan or thiophanate-methyl",
+      "Remove mummified fruit from trees",
+      "Improve air circulation with proper pruning"
+    ],
+    "prevention": [
+      "Clean up fallen fruit and leaves",
+      "Prune out dead or damaged wood",
+      "Apply dormant oil spray in late winter",
+      "Control insects that may create entry wounds"
+    ]
+  },
+  "Apple___healthy": {
+    "description": "Your apple tree appears healthy with no signs of disease.",
+    "treatment": [],
+    "prevention": [
+      "Continue current care practices",
+      "Apply dormant oil spray in late winter",
+      "Prune annually for shape and air circulation",
+      "Apply balanced fertilizer as needed"
+    ]
+  },
+  "healthy": {
+    "description": "Your plant appears healthy with no signs of disease.",
+    "treatment": [],
+    "prevention": [
+      "Continue current care practices",
+      "Monitor regularly for early signs of pests or disease",
+      "Maintain proper watering and fertilization schedule",
+      "Ensure adequate sunlight and air circulation"
+    ]
+  }
+}
