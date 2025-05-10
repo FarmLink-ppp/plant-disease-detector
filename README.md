@@ -64,13 +64,18 @@ The dataset used for training the model is the [New Plant Diseases Dataset](http
 
 3. Move the `plant_disease_model.pth` file to the project root directory.
 
-4. Build and run the container using Docker Compose:
+4. You have to install nvidia container toolkit to run the docker image with GPU support.
+
+   - For windows: Follow the instructions [here](https://docs.docker.com/desktop/features/gpu/)
+   - For linux: Follow the instructions [here](https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/latest/install-guide.htmlhttps://docs.nvidia.com/datacenter/cloud-native/container-toolkit/latest/install-guide.html)
+
+5. Build and run the container using Docker Compose:
 
    ```bash
    docker-compose up --build
    ```
 
-5. Open your browser and go to `http://127.0.0.1:8000/docs` to see the API documentation and test the endpoints.
+6. Open your browser and go to `http://127.0.0.1:8000/docs` to see the API documentation and test the endpoints.
 
 ## Usage
 
