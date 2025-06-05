@@ -59,16 +59,6 @@
       "Practice good greenhouse ventilation if applicable"
     ]
   },
-  "Tomato___healthy": {
-    "description": "Your tomato plant appears healthy with no signs of disease.",
-    "treatment": [],
-    "prevention": [
-      "Continue current care practices",
-      "Water consistently at the base of plants",
-      "Apply balanced fertilizer as needed",
-      "Monitor for early signs of pests or disease"
-    ]
-  },
   "Apple___Apple_scab": {
     "description": "A fungal disease that causes dark scab-like lesions on leaves and fruit.",
     "treatment": [
@@ -99,16 +89,6 @@
       "Control insects that may create entry wounds"
     ]
   },
-  "Apple___healthy": {
-    "description": "Your apple tree appears healthy with no signs of disease.",
-    "treatment": [],
-    "prevention": [
-      "Continue current care practices",
-      "Apply dormant oil spray in late winter",
-      "Prune annually for shape and air circulation",
-      "Apply balanced fertilizer as needed"
-    ]
-  },
   "healthy": {
     "description": "Your plant appears healthy with no signs of disease.",
     "treatment": [],
@@ -119,328 +99,266 @@
       "Ensure adequate sunlight and air circulation"
     ]
   },
-
-    "Grape___healthy": {
-      "description": "A healthy grapevine free of diseases."
-    },
-    "Orange___Haunglongbing_(Citrus_greening)": {
-      "description": "A devastating disease caused by Candidatus Liberibacter spp., affecting citrus trees.",
-      "treatment": [
-        "Remove and destroy infected trees",
-        "Apply systemic insecticides to control the Asian citrus psyllid",
-        "Use nutrient therapies to improve tree health"
-      ],
-      "prevention": [
-        "Plant certified disease-free saplings",
-        "Monitor and control psyllid populations",
-        "Implement quarantines in affected regions"
-      ]
-    },
-    "Soybean___healthy": {
-      "description": "A healthy soybean plant free of diseases."
-    },
-    "Squash___Powdery_mildew": {
-      "description": "A fungal disease caused by Podosphaera xanthii or Erysiphe cichoracearum, affecting squash and other cucurbits.",
-      "treatment": [
-        "Apply fungicides containing sulfur or potassium bicarbonate",
-        "Remove heavily infected leaves",
-        "Increase air circulation by proper spacing"
-      ],
-      "prevention": [
-        "Plant resistant varieties",
-        "Avoid overhead watering",
-        "Maintain crop health through balanced fertilization"
-      ]
-    },
-    
-      "Potato___healthy": {
-        "description": "A healthy potato plant free of diseases."
-      },
-      "Corn_(maize)___Northern_Leaf_Blight": {
-        "description": "A fungal disease caused by Exserohilum turcicum that affects maize leaves.",
-        "treatment": [
-          "Apply fungicides like azoxystrobin or propiconazole",
-          "Remove infected plant debris",
-          "Plant resistant hybrids"
-        ],
-        "prevention": [
-          "Rotate crops to reduce pathogen build-up",
-          "Plant at proper spacing for air circulation",
-          "Use certified disease-free seeds"
-        ]
-      },
-      "Tomato___Septoria_leaf_spot": {
-        "description": "A fungal disease caused by Septoria lycopersici that affects tomato leaves.",
-        "treatment": [
-          "Apply fungicides like mancozeb or copper-based compounds",
-          "Remove and destroy infected leaves",
-          "Prune plants to improve air circulation"
-        ],
-        "prevention": [
-          "Plant resistant varieties",
-          "Avoid overhead watering",
-          "Ensure proper crop rotation"
-        ]
-      },
-      "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot": {
-        "description": "A fungal disease caused by Cercospora zeae-maydis, leading to lesions on maize leaves.",
-        "treatment": [
-          "Apply fungicides such as strobilurins and triazoles",
-          "Remove infected residue post-harvest",
-          "Plant resistant hybrids"
-        ],
-        "prevention": [
-          "Rotate crops to reduce inoculum levels",
-          "Plant at recommended densities for air circulation",
-          "Use disease-resistant seed varieties"
-        ]
-      },
-      "Strawberry___Leaf_scorch": {
-        "description": "A fungal disease caused by Diplocarpon earlianum, causing dark spots and leaf withering on strawberries.",
-        "treatment": [
-          "Apply fungicides like captan or myclobutanil",
-          "Remove infected leaves",
-          "Improve air circulation through proper spacing"
-        ],
-        "prevention": [
-          "Plant resistant varieties",
-          "Avoid overhead irrigation",
-          "Maintain clean fields and remove plant debris"
-        ]
-      },
-      
-        "Peach___healthy": {
-          "description": "A healthy peach tree free of diseases."
-        },
-        "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
-          "description": "A viral disease transmitted by whiteflies, causing yellowing and curling of tomato leaves.",
-          "treatment": [
-            "Remove and destroy infected plants",
-            "Use insecticides to control whitefly populations",
-            "Apply reflective mulches to repel whiteflies"
-          ],
-          "prevention": [
-            "Plant resistant tomato varieties",
-            "Use insect-proof netting in greenhouses",
-            "Monitor and control whitefly populations regularly"
-          ]
-        },
-        "Blueberry___healthy": {
-          "description": "A healthy blueberry bush free of diseases."
-        },
-        
-          "Cherry_(including_sour)___Powdery_mildew": {
-            "description": "A fungal disease caused by Podosphaera clandestina, leading to white powdery growth on cherry leaves and fruits.",
-            "treatment": [
-              "Apply fungicides like sulfur or myclobutanil",
-              "Prune infected branches to improve air circulation",
-              "Remove and destroy infected leaves"
-            ],
-            "prevention": [
-              "Plant resistant cherry varieties",
-              "Avoid overcrowding by proper tree spacing",
-              "Monitor and control humidity levels in orchards"
-            ]
-          },
-          "Peach___Bacterial_spot": {
-            "description": "A bacterial disease caused by Xanthomonas arboricola, leading to dark spots on peach leaves, fruit, and twigs.",
-            "treatment": [
-              "Apply copper-based bactericides",
-              "Prune infected twigs and branches",
-              "Remove and destroy fallen leaves and fruit"
-            ],
-            "prevention": [
-              "Plant resistant peach varieties",
-              "Avoid overhead irrigation",
-              "Maintain tree health through proper fertilization"
-            ]
-          },
-          "Apple___Cedar_apple_rust": {
-            "description": "A fungal disease caused by Gymnosporangium juniperi-virginianae, affecting apple leaves and fruit.",
-            "treatment": [
-              "Apply fungicides like myclobutanil or captan",
-              "Remove nearby juniper trees to break the disease cycle",
-              "Prune infected branches"
-            ],
-            "prevention": [
-              "Plant resistant apple varieties",
-              "Avoid planting apple trees near junipers",
-              "Monitor for signs of rust during the growing season"
-            ]
-          },
-          "Tomato___Target_Spot": {
-            "description": "A fungal disease caused by Corynespora cassiicola, affecting tomato leaves, stems, and fruits.",
-            "treatment": [
-              "Apply fungicides like chlorothalonil or mancozeb",
-              "Remove and destroy infected plant material",
-              "Improve air circulation through proper spacing and pruning"
-            ],
-            "prevention": [
-              "Use resistant tomato varieties",
-              "Rotate crops regularly",
-              "Avoid overhead irrigation"
-            ]
-          },
-          "Pepper,_bell___healthy": {
-            "description": "A healthy bell pepper plant free of diseases."
-          },
-          "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)": {
-            "description": "A fungal disease caused by Isariopsis griseola, leading to dark spots and leaf blight on grapevines.",
-            "treatment": [
-              "Apply fungicides like captan or thiophanate-methyl",
-              "Prune and remove infected leaves",
-              "Increase air circulation by proper vine spacing"
-            ],
-            "prevention": [
-              "Plant resistant grape varieties",
-              "Avoid overhead watering",
-              "Remove plant debris from the vineyard"
-            ]
-          },
-          
-            "Potato___Late_blight": {
-              "description": "A serious disease caused by the fungus Phytophthora infestans that affects potatoes and tomatoes.",
-              "treatment": [
-                "Remove and destroy infected plant material",
-                "Apply fungicides containing chlorothalonil, mancozeb, or copper-based compounds",
-                "Improve air circulation by proper spacing and pruning",
-                "Avoid overhead irrigation; water at the base of plants"
-              ],
-              "prevention": [
-                "Plant resistant varieties",
-                "Practice crop rotation",
-                "Use drip irrigation instead of overhead watering",
-                "Apply preventative fungicide treatments during humid weather"
-              ]
-            },
-            "Tomato___Tomato_mosaic_virus": {
-              "description": "A viral disease causing mottled patterns and deformation in tomato leaves.",
-              "treatment": [
-                "Remove and destroy infected plants",
-                "Disinfect tools and equipment",
-                "Control insect vectors such as aphids"
-              ],
-              "prevention": [
-                "Plant disease-free seeds",
-                "Use resistant tomato varieties",
-                "Practice crop rotation to break the disease cycle"
-              ]
-            },
-            "Strawberry___healthy": {
-              "description": "A healthy strawberry plant free of diseases."
-            },
-            "Grape___Black_rot": {
-              "description": "A fungal disease caused by Guignardia bidwellii, leading to black lesions on grape leaves and fruits.",
-              "treatment": [
-                "Apply fungicides such as myclobutanil or captan",
-                "Remove infected leaves and fruit",
-                "Prune vines to improve air circulation"
-              ],
-              "prevention": [
-                "Plant resistant grape varieties",
-                "Ensure proper vineyard sanitation",
-                "Practice crop rotation to reduce fungal spores"
-              ]
-            },
-            "Potato___Early_blight": {
-              "description": "A fungal disease caused by Alternaria solani, leading to leaf spots and blight in potatoes.",
-              "treatment": [
-                "Apply fungicides containing chlorothalonil or mancozeb",
-                "Remove infected leaves and debris",
-                "Rotate crops to prevent spore build-up"
-              ],
-              "prevention": [
-                "Plant resistant potato varieties",
-                "Use certified disease-free seed potatoes",
-                "Ensure proper plant spacing for air circulation"
-              ]
-            },
-            
-              "Cherry_(including_sour)___healthy": {
-                "description": "A healthy cherry tree free of diseases."
-              },
-              "Corn_(maize)___Common_rust_": {
-                "description": "A fungal disease caused by Puccinia sorghi, leading to rust-colored pustules on maize leaves.",
-                "treatment": [
-                  "Apply fungicides like azoxystrobin or propiconazole",
-                  "Remove infected plant debris post-harvest",
-                  "Plant resistant maize hybrids"
-                ],
-                "prevention": [
-                  "Rotate crops to reduce pathogen build-up",
-                  "Plant maize at recommended spacing for air circulation",
-                  "Monitor and treat fields early during outbreaks"
-                ]
-              },
-              "Grape___Esca_(Black_Measles)": {
-                "description": "A complex fungal disease caused by multiple pathogens, leading to black spots on grape leaves and fruit decay.",
-                "treatment": [
-                  "Remove and destroy infected vines",
-                  "Apply fungicides like tebuconazole or fludioxonil",
-                  "Sanitize pruning tools to prevent spread"
-                ],
-                "prevention": [
-                  "Plant resistant grape varieties",
-                  "Maintain vineyard hygiene by removing debris",
-                  "Prune vines properly to reduce moisture retention"
-                ]
-              },
-              "Raspberry___healthy": {
-                "description": "A healthy raspberry plant free of diseases."
-              },
-              
-              "Tomato___Spider_mites Two-spotted_spider_mite": {
-                "description": "A pest infestation caused by Tetranychus urticae, leading to yellowing and webbing on tomato leaves.",
-                "treatment": [
-                  "Apply miticides like abamectin or spiromesifen",
-                  "Spray leaves with water to dislodge mites",
-                  "Introduce natural predators like ladybugs or predatory mites"
-                ],
-                "prevention": [
-                  "Maintain proper plant health to reduce vulnerability",
-                  "Monitor for early signs of infestation",
-                  "Avoid dusty conditions in growing areas"
-                ]
-              },
-              
-                "Pepper,_bell___Bacterial_spot": {
-                  "description": "A bacterial disease caused by Xanthomonas campestris, leading to water-soaked lesions on leaves and fruits of bell peppers.",
-                  "treatment": [
-                    "Apply copper-based bactericides",
-                    "Remove and destroy infected plant material",
-                    "Prune for better air circulation"
-                  ],
-                  "prevention": [
-                    "Plant resistant varieties of bell peppers",
-                    "Use certified disease-free seeds",
-                    "Avoid overhead watering"
-                  ]
-                },
-                "Corn_(maize)___healthy": {
-                  "description": "A healthy maize plant free of diseases."
-                }
- }
-                      
-                    
-                    
-                  
-                  
-                
-                
-              
-              
-            
-            
-          
-          
-
-        
-        
-      
-      
-
-    
-    
-  
-  
-
+  "Orange___Haunglongbing_(Citrus_greening)": {
+    "description": "A devastating disease caused by Candidatus Liberibacter spp., affecting citrus trees.",
+    "treatment": [
+      "Remove and destroy infected trees",
+      "Apply systemic insecticides to control the Asian citrus psyllid",
+      "Use nutrient therapies to improve tree health"
+    ],
+    "prevention": [
+      "Plant certified disease-free saplings",
+      "Monitor and control psyllid populations",
+      "Implement quarantines in affected regions"
+    ]
+  },
+  "Squash___Powdery_mildew": {
+    "description": "A fungal disease caused by Podosphaera xanthii or Erysiphe cichoracearum, affecting squash and other cucurbits.",
+    "treatment": [
+      "Apply fungicides containing sulfur or potassium bicarbonate",
+      "Remove heavily infected leaves",
+      "Increase air circulation by proper spacing"
+    ],
+    "prevention": [
+      "Plant resistant varieties",
+      "Avoid overhead watering",
+      "Maintain crop health through balanced fertilization"
+    ]
+  },
+  "Corn_(maize)___Northern_Leaf_Blight": {
+    "description": "A fungal disease caused by Exserohilum turcicum that affects maize leaves.",
+    "treatment": [
+      "Apply fungicides like azoxystrobin or propiconazole",
+      "Remove infected plant debris",
+      "Plant resistant hybrids"
+    ],
+    "prevention": [
+      "Rotate crops to reduce pathogen build-up",
+      "Plant at proper spacing for air circulation",
+      "Use certified disease-free seeds"
+    ]
+  },
+  "Tomato___Septoria_leaf_spot": {
+    "description": "A fungal disease caused by Septoria lycopersici that affects tomato leaves.",
+    "treatment": [
+      "Apply fungicides like mancozeb or copper-based compounds",
+      "Remove and destroy infected leaves",
+      "Prune plants to improve air circulation"
+    ],
+    "prevention": [
+      "Plant resistant varieties",
+      "Avoid overhead watering",
+      "Ensure proper crop rotation"
+    ]
+  },
+  "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot": {
+    "description": "A fungal disease caused by Cercospora zeae-maydis, leading to lesions on maize leaves.",
+    "treatment": [
+      "Apply fungicides such as strobilurins and triazoles",
+      "Remove infected residue post-harvest",
+      "Plant resistant hybrids"
+    ],
+    "prevention": [
+      "Rotate crops to reduce inoculum levels",
+      "Plant at recommended densities for air circulation",
+      "Use disease-resistant seed varieties"
+    ]
+  },
+  "Strawberry___Leaf_scorch": {
+    "description": "A fungal disease caused by Diplocarpon earlianum, causing dark spots and leaf withering on strawberries.",
+    "treatment": [
+      "Apply fungicides like captan or myclobutanil",
+      "Remove infected leaves",
+      "Improve air circulation through proper spacing"
+    ],
+    "prevention": [
+      "Plant resistant varieties",
+      "Avoid overhead irrigation",
+      "Maintain clean fields and remove plant debris"
+    ]
+  },
+  "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+    "description": "A viral disease transmitted by whiteflies, causing yellowing and curling of tomato leaves.",
+    "treatment": [
+      "Remove and destroy infected plants",
+      "Use insecticides to control whitefly populations",
+      "Apply reflective mulches to repel whiteflies"
+    ],
+    "prevention": [
+      "Plant resistant tomato varieties",
+      "Use insect-proof netting in greenhouses",
+      "Monitor and control whitefly populations regularly"
+    ]
+  },
+  "Cherry_(including_sour)___Powdery_mildew": {
+    "description": "A fungal disease caused by Podosphaera clandestina, leading to white powdery growth on cherry leaves and fruits.",
+    "treatment": [
+      "Apply fungicides like sulfur or myclobutanil",
+      "Prune infected branches to improve air circulation",
+      "Remove and destroy infected leaves"
+    ],
+    "prevention": [
+      "Plant resistant cherry varieties",
+      "Avoid overcrowding by proper tree spacing",
+      "Monitor and control humidity levels in orchards"
+    ]
+  },
+  "Peach___Bacterial_spot": {
+    "description": "A bacterial disease caused by Xanthomonas arboricola, leading to dark spots on peach leaves, fruit, and twigs.",
+    "treatment": [
+      "Apply copper-based bactericides",
+      "Prune infected twigs and branches",
+      "Remove and destroy fallen leaves and fruit"
+    ],
+    "prevention": [
+      "Plant resistant peach varieties",
+      "Avoid overhead irrigation",
+      "Maintain tree health through proper fertilization"
+    ]
+  },
+  "Apple___Cedar_apple_rust": {
+    "description": "A fungal disease caused by Gymnosporangium juniperi-virginianae, affecting apple leaves and fruit.",
+    "treatment": [
+      "Apply fungicides like myclobutanil or captan",
+      "Remove nearby juniper trees to break the disease cycle",
+      "Prune infected branches"
+    ],
+    "prevention": [
+      "Plant resistant apple varieties",
+      "Avoid planting apple trees near junipers",
+      "Monitor for signs of rust during the growing season"
+    ]
+  },
+  "Tomato___Target_Spot": {
+    "description": "A fungal disease caused by Corynespora cassiicola, affecting tomato leaves, stems, and fruits.",
+    "treatment": [
+      "Apply fungicides like chlorothalonil or mancozeb",
+      "Remove and destroy infected plant material",
+      "Improve air circulation through proper spacing and pruning"
+    ],
+    "prevention": [
+      "Use resistant tomato varieties",
+      "Rotate crops regularly",
+      "Avoid overhead irrigation"
+    ]
+  },
+  "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)": {
+    "description": "A fungal disease caused by Isariopsis griseola, leading to dark spots and leaf blight on grapevines.",
+    "treatment": [
+      "Apply fungicides like captan or thiophanate-methyl",
+      "Prune and remove infected leaves",
+      "Increase air circulation by proper vine spacing"
+    ],
+    "prevention": [
+      "Plant resistant grape varieties",
+      "Avoid overhead watering",
+      "Remove plant debris from the vineyard"
+    ]
+  },
+  "Potato___Late_blight": {
+    "description": "A serious disease caused by the fungus Phytophthora infestans that affects potatoes and tomatoes.",
+    "treatment": [
+      "Remove and destroy infected plant material",
+      "Apply fungicides containing chlorothalonil, mancozeb, or copper-based compounds",
+      "Improve air circulation by proper spacing and pruning",
+      "Avoid overhead irrigation; water at the base of plants"
+    ],
+    "prevention": [
+      "Plant resistant varieties",
+      "Practice crop rotation",
+      "Use drip irrigation instead of overhead watering",
+      "Apply preventative fungicide treatments during humid weather"
+    ]
+  },
+  "Tomato___Tomato_mosaic_virus": {
+    "description": "A viral disease causing mottled patterns and deformation in tomato leaves.",
+    "treatment": [
+      "Remove and destroy infected plants",
+      "Disinfect tools and equipment",
+      "Control insect vectors such as aphids"
+    ],
+    "prevention": [
+      "Plant disease-free seeds",
+      "Use resistant tomato varieties",
+      "Practice crop rotation to break the disease cycle"
+    ]
+  },
+  "Grape___Black_rot": {
+    "description": "A fungal disease caused by Guignardia bidwellii, leading to black lesions on grape leaves and fruits.",
+    "treatment": [
+      "Apply fungicides such as myclobutanil or captan",
+      "Remove infected leaves and fruit",
+      "Prune vines to improve air circulation"
+    ],
+    "prevention": [
+      "Plant resistant grape varieties",
+      "Ensure proper vineyard sanitation",
+      "Practice crop rotation to reduce fungal spores"
+    ]
+  },
+  "Potato___Early_blight": {
+    "description": "A fungal disease caused by Alternaria solani, leading to leaf spots and blight in potatoes.",
+    "treatment": [
+      "Apply fungicides containing chlorothalonil or mancozeb",
+      "Remove infected leaves and debris",
+      "Rotate crops to prevent spore build-up"
+    ],
+    "prevention": [
+      "Plant resistant potato varieties",
+      "Use certified disease-free seed potatoes",
+      "Ensure proper plant spacing for air circulation"
+    ]
+  },
+  "Corn_(maize)___Common_rust_": {
+    "description": "A fungal disease caused by Puccinia sorghi, leading to rust-colored pustules on maize leaves.",
+    "treatment": [
+      "Apply fungicides like azoxystrobin or propiconazole",
+      "Remove infected plant debris post-harvest",
+      "Plant resistant maize hybrids"
+    ],
+    "prevention": [
+      "Rotate crops to reduce pathogen build-up",
+      "Plant maize at recommended spacing for air circulation",
+      "Monitor and treat fields early during outbreaks"
+    ]
+  },
+  "Grape___Esca_(Black_Measles)": {
+    "description": "A complex fungal disease caused by multiple pathogens, leading to black spots on grape leaves and fruit decay.",
+    "treatment": [
+      "Remove and destroy infected vines",
+      "Apply fungicides like tebuconazole or fludioxonil",
+      "Sanitize pruning tools to prevent spread"
+    ],
+    "prevention": [
+      "Plant resistant grape varieties",
+      "Maintain vineyard hygiene by removing debris",
+      "Prune vines properly to reduce moisture retention"
+    ]
+  },
+  "Tomato___Spider_mites Two-spotted_spider_mite": {
+    "description": "A pest infestation caused by Tetranychus urticae, leading to yellowing and webbing on tomato leaves.",
+    "treatment": [
+      "Apply miticides like abamectin or spiromesifen",
+      "Spray leaves with water to dislodge mites",
+      "Introduce natural predators like ladybugs or predatory mites"
+    ],
+    "prevention": [
+      "Maintain proper plant health to reduce vulnerability",
+      "Monitor for early signs of infestation",
+      "Avoid dusty conditions in growing areas"
+    ]
+  },
+  "Pepper,_bell___Bacterial_spot": {
+    "description": "A bacterial disease caused by Xanthomonas campestris, leading to water-soaked lesions on leaves and fruits of bell peppers.",
+    "treatment": [
+      "Apply copper-based bactericides",
+      "Remove and destroy infected plant material",
+      "Prune for better air circulation"
+    ],
+    "prevention": [
+      "Plant resistant varieties of bell peppers",
+      "Use certified disease-free seeds",
+      "Avoid overhead watering"
+    ]
+  }
+}
